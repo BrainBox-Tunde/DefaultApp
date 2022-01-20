@@ -1,5 +1,6 @@
 body {
   font-size: 1.8em;
+  margin-top: 10%;
   text-align: center;
       background: #018DED url(https://unsplash.it/1500/1000?image=881&blur=5);
 }
@@ -13,3 +14,4 @@ body {
   width: 200px;
   height: 25px;
 }
+

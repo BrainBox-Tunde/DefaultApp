@@ -1,0 +1,9 @@
+body {
+      margin: 10px;
+      background: #018DED url(https://unsplash.it/1500/1000?image=881&blur=5);
+}
+
+.js-display-user-text {
+  font-size: 24px;
+  font-weight: 300'
+}

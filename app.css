@@ -1,9 +1,15 @@
 body {
-      margin: 10px;
+  font-size: 1.8em;
+  text-align: center;
       background: #018DED url(https://unsplash.it/1500/1000?image=881&blur=5);
 }
 
 .js-display-user-text {
-  font-size: 24px;
-  font-weight: 300'
+  font-size: 42px;
+  font-weight: 500;
+  color: coral;
+}
+.js-form #user-text{
+  width: 200px;
+  height: 25px;
 }
